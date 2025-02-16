@@ -29,8 +29,3 @@ In summary, this project leverages advanced image processing and adaptive thresh
 By addressing the limitations of traditional methods and harnessing the power of modern technology, this Driver Drowsiness Detection System represents a significant step forward in the quest for improved road safety. 🚘🌟
 
 
-
-## Contributors -
-RISHABH SHARMA - https://github.com/rshabh
-
-PRATYUSH PURI GOSWAMI - https://github.com/ProgrammerPratyush
